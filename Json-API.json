@@ -1,5 +1,11 @@
 {
-    "name": "Nakarda Richards",
-    "age": "19",
-    "Hobbies": "Programming"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
